@@ -13,14 +13,14 @@ function App() {
         <p> * Aloo Berger : 69</p>
         <p> * Straw Berry Shakes : 89</p>
 
-        <a
+        {/* <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
           Learn React yyyy
-        </a>
+        </a> */}
       </header>
     </div>
   );
